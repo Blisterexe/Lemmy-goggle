@@ -1,6 +1,6 @@
 ! name: Lemmy
 ! description: Makes brave prioritize lemmy
-! public: false
+! public: true
 ! author: Blisterexe
 $boost=,3site=0d.gs
 $boost=,3site=0xdd.org.ru
