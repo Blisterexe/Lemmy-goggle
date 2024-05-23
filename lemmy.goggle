@@ -2,6 +2,8 @@
 ! description: Makes brave prioritize lemmy
 ! public: true
 ! author: Blisterexe
+
+
 $boost=3,site=0d.gs
 $boost=3,site=0xdd.org.ru
 $boost=3,site=1337lemmy.com
