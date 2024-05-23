@@ -3,6 +3,7 @@
 ! public: true
 ! author: Blisterexe
 
+$discard
 
 $boost=3,site=0d.gs
 $boost=3,site=0xdd.org.ru
